@@ -1,0 +1,28 @@
+Noms:
+Caterina Moll Pons
+Jack Griffiths Rico
+
+Funcionaliats implementades:
+-5 pantalles: Menu principal, Nivells, Crèdits, Instruccions.
+-2 nivells.
+-2 enemics (Koopa Troopa i Goomba). Closca Koopa Troopa amb fallos.
+-Salt i Sprint funcionals al mario (sprint amb "z").
+-Els totxos del nivell 1 es poden destruir pel super mario pero les colisions segueixen.
+-Implementat 2 power-ups, super bolet que permet convertirse en super mario i estrella que permet convertirse en star mario (invencible ilimitadament).
+-Scroll funcional.
+-Caure per un forat mata al mario.
+-Hi ha un temps limit de 170 segons per completar el nivell i l'alçada de la bandera determina un bonus de puntuació.
+-Recompte de puntuació, monedes, mon i temps restant.
+-Interfície gràfica funcional.
+-Tecles per saltar contingut:
+	 Transformar en Super Mario (‘M’) i Star Mario (‘G’).
+	 Poder saltar a pantalles concretes (tecles numèriques ‘1’, ‘2’).
+	 Resetejar joc ('R').
+-Interacció entre totes les entitats del joc.
+-Moviment del mario accelerat.
+
+Instruccions:
+Per interaccionar amb el menu es fa servir les fletxes amunt i avall, per acceptar l'opció la 'A'.
+Per moure's es fa servir la fletxa amunt, equerre i dreta. Matar a un enemic otorgarà 2000 punts, agafar una moneda 200 punts i agafar un power-up 1000 punts. 
+Per resetejar el nivell es pot fer servir la 'R'.
+Per veure les instruccions es pot fer servir la 'I'.
